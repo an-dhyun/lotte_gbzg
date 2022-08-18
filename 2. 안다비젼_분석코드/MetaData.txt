@@ -1,0 +1,21 @@
+< 전체 코드 구조 >
+1. EDA : 전체 EDA가 담겨있는 폴더입니다. 
+	- Raw EDA.ipynb : 기본 데이터에 대한 EDA 코드가 담겨있는 코드입니다.
+	- Derived EDA.ipynb : 파생변수 생성 및 EDA 코드가 담겨있는 코드입니다.
+2. Clustering : 군집화 분석이 담겨있는 폴더입니다.
+	- Segment.ipynb : 고객 세그먼트 분석 코드가 담겨있는 코드입니다.
+	- RFM.ipynb : 고객 세분화 분석이 담겨있는 코드입니다.
+3. Recommender system : 추천시스템 구현이 담겨있는 폴더입니다. 
+	- split_DNN.ipynb : DNN 데이터 온라인 추출 및 분리 코드입니다.
+	- split_BGCN.ipynb : GNN 데이터 분리 코드입니다.
+	- DNN.ipynb : 상품 추천시스템 전처리 및 모델링 코드입니다.
+	- BGCN.ipynb : 쿠폰 추천시스템 전처리 및 모델링 코드입니다.
+4. Reference : BGCN의 Reference가 담겨있는 폴더입니다. 
+
+< 실행 순서 >
+1. Raw EDA.ipynb
+2. Derived EDA.ipynb
+3. Segment.ipynb 
+4. RFM.ipynb 
+5. split_DNN.ipynb, split_BGCN.ipynb
+6. DNN.ipynb, BGCN.ipynb
