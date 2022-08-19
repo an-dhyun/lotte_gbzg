@@ -56,9 +56,15 @@
 ```
 <br>
 
-### 📍 개발 환경 및 라이브러리 버전
+## 📍 개발 환경 및 라이브러리 버전
       각 분석 코드에 작성되어 있습니다.
       
+<br>
+
+## 📍 Presentation
+저희 프로젝트에 대해 자세하게 알고 싶으시다면, 프로젝트 설명자료를 참고해주세요.
+* [![GoogleDrive Badge](https://img.shields.io/badge/Presentation-405263?style=flat-square&logo=Quip&link=https://drive.google.com/file/d/1wkLDchFS6nExMgtldQYKGfVSP6YOjCl-/view?usp=sharing)](https://dguackr-my.sharepoint.com/:b:/g/personal/wlguni_dgu_ac_kr/EYidNeN8JoVMjFR8hUgZ5OsBhma9dxTOdEpLmFiKWp4YLQ?e=PzeZqM)
+
 <br>
 
 ## 📍 Contributors
